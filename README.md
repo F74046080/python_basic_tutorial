@@ -1,5 +1,5 @@
-# python_basic_tutorial 中文教學
-[slide](http://nbviewer.jupyter.org/format/slides/github/F74046080/python_basic_tutorial/blob/master/Lesson02-Python_Basic.ipynb#/)
+# python_basic_tutorial (python 中文基本教學)
+[投影片 slide](http://nbviewer.jupyter.org/format/slides/github/F74046080/python_basic_tutorial/blob/master/Lesson02-Python_Basic.ipynb#/)
 
 Through this tutorial, you will learn
 1. 物件 － Object in python
